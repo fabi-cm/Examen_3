@@ -26,4 +26,6 @@ function cambioDe(a, moneda) {
     return 0;
   }
 }
+
+// console.log(cantidadMonedas(19))
 export default sumar;
